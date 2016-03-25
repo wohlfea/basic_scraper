@@ -64,3 +64,4 @@ target/
 bin/
 include/
 pip-selfcheck.json
+.Python
