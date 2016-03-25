@@ -65,3 +65,4 @@ bin/
 include/
 pip-selfcheck.json
 .Python
+src/inspection_page.html
